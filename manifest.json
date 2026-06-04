@@ -1,0 +1,17 @@
+{
+  "name": "Rockliquias",
+  "short_name": "Rockliquias",
+  "start_url": "https://www.rockliquias.com/",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "ENLACE_A_TU_ICONO_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
